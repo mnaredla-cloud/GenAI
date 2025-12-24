@@ -1,2 +1,1 @@
-# GenAI
-GenAI Practicals
+#bash
